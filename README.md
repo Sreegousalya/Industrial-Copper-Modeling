@@ -1,5 +1,5 @@
 # Industrial Copper Modeling
-## Model  - [ Industrial Copper Modelling ](https://github.com/Sreegousalya/Industrial-Copper-Modeling/blob/main/industrial%20copper%20modelling.ipynb)
+## Model  - [ Industrial Copper Modelling ](https://github.com/Sreegousalya/Industrial-Copper-Modeling/blob/main/Industrial_Copper_Modelling.ipynb)
 
 ## Introduction
 The Industrial Copper Modeling project focuses on predicting the selling price and status (won or lost) in the industrial copper market using machine learning regression and classification algorithms. By exploring the dataset, performing data cleaning and preprocessing, and applying various machine learning techniques, we aim to develop models that can accurately predict the selling price and status in the copper market.
